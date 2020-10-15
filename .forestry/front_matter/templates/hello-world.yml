@@ -16,3 +16,5 @@ fields:
   config:
     required: false
   label: draft
+pages:
+- content/posts/hello-world.md
